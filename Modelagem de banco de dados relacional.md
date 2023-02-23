@@ -138,7 +138,8 @@ CREATE TABLE VENDEDORES (
 Alterando a tabela estoque, inserindo uma chave estrangeira e declarando uma restrição.
 
 > ADD CONSTRAINT    CE_ESTOQUE_LIVROS
-adicionar restrição      nome_da_restrição
+> 
+> adicionar restrição      nome_da_restrição
 > 
 - relação entre a tabela estoque e livros
 
