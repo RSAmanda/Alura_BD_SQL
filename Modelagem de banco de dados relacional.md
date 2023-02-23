@@ -68,7 +68,9 @@ O *Uniform server* é um conjunto de servidores que possui o MySQL e simplifica 
 
 <aside>
 ❗ obs: 
+	
 - Para encerrar um comando, usa-se ponto e vígula (;);
+	
 - o símbolo de raio ⚡ executa o comando selecionado (ou CTRL + ENTER);
 
 </aside>
