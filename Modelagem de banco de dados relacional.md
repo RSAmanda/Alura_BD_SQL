@@ -390,8 +390,6 @@ GROUP BY VENDAS.ID_VENDEDOR;
 
 O `INNER JOIN` é a **interseção** entre duas tabelas, ou seja, na consulta aparecerá todas as informações de um determinado campo da tabela A que também foi encontrado na tabela B.
 
-![https://caelum-online-public.s3.amazonaws.com/2462-entendendo-sql/05/aula5-img1.png](https://caelum-online-public.s3.amazonaws.com/2462-entendendo-sql/05/aula5-img1.png)
-
 ```sql
 #esquema de uso
 SELECT <CAMPOS>
@@ -412,8 +410,6 @@ GROUP BY VENDAS.ID_VENDEDOR;
 
 O `LEFT JOIN` baseia-se nas informações da tabela declarada à esquerda do comando ao se juntar com outra tabela.
 
-![https://caelum-online-public.s3.amazonaws.com/2462-entendendo-sql/05/aula5-img2.png](https://caelum-online-public.s3.amazonaws.com/2462-entendendo-sql/05/aula5-img2.png)
-
 ```sql
 #esquema de uso
 SELECT <CAMPOS>
@@ -430,8 +426,6 @@ ON LIVROS.ID_LIVRO = VENDAS.ID_LIVRO;
 ```
 
 ### **Right Join**
-
-![https://caelum-online-public.s3.amazonaws.com/2462-entendendo-sql/05/aula5-img3.png](https://caelum-online-public.s3.amazonaws.com/2462-entendendo-sql/05/aula5-img3.png)
 
 ```sql
 #esquema de uso
@@ -453,8 +447,6 @@ ON LIVROS.ID_LIVRO = VENDAS.ID_LIVRO;
 Esse comando apresenta a união entre duas tabelas.
 
 1. Incluindo a interseção
-
-![https://caelum-online-public.s3.amazonaws.com/2462-entendendo-sql/05/aula5-img4.png](https://caelum-online-public.s3.amazonaws.com/2462-entendendo-sql/05/aula5-img4.png)
 
 ```sql
 #esquema de uso
@@ -481,7 +473,6 @@ ON TABELA_A.CAMPO = TABELA_B.CAMPOCOPIAR CÓDIGO
 
 ### Excluindo a interseção
 
-![https://caelum-online-public.s3.amazonaws.com/2462-entendendo-sql/05/aula5-img5.png](https://caelum-online-public.s3.amazonaws.com/2462-entendendo-sql/05/aula5-img5.png)
 
 ```sql
 #esquema de uso
