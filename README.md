@@ -3,7 +3,7 @@
 # Modelagem de banco de dados relacional: entendendo SQL
 
 # Notas de Aula:
-
+[Minhas Notas de Aula no Github](https://github.com/RSAmanda/Alura_BD_SQL/blob/97525e47427d412113d2bbe3cd8a8ae6cff4ccb9/Modelagem%20de%20banco%20de%20dados%20relacional.md)
 
 # Conteúdo Programático
 ## Introdução e Instalação:
